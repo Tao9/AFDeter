@@ -31,6 +31,6 @@ https://journals.sagepub.com/doi/full/10.1177/00405175211029212
 1. The installation packages included MATLAB Runtime and without MATLAB Runtime are available.
 2. It takes relatively longer time to install the package withour MATLAB Runtime.
 3. A suffix of exe is for Windows operating environment, and app suffix is for macOS.
-4. Double-click the installation file of AFDeterInstaller_mcr or AFDeterInstaller_mcr_web.
+4. Double-click the installation file of AFDeterInstaller_mcr or AFDeterInstaller_web.
 5. Once installed, the AFDeter software is added to the file directory of 'Apps' under Windows or 'Applications' under macOS.
 6. Clikc the AFDeter icon to run the program.
