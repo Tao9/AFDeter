@@ -28,9 +28,10 @@ https://journals.sagepub.com/doi/full/10.1177/00405175211029212
 5. Click the AFDeter icon to run the program.
 
 ### Standalone application
-1. The installation packages included MATLAB Runtime and without MATLAB Runtime are available.
-2. It takes relatively longer time to install the package withour MATLAB Runtime.
+1. The installation packages run by MATLAB Runtime. MATLAB Runtime is available from: https://www.mathworks.com/products/compiler/matlab-runtime.html 
+2. It may take a long time to install the package.
 3. A suffix of exe is for Windows operating environment, and app suffix is for macOS.
-4. Double-click the installation file of AFDeterInstaller_mcr or AFDeterInstaller_web.
-5. Once installed, the AFDeter software is added to the file directory of 'Apps' under Windows or 'Applications' under macOS.
-6. Clikc the AFDeter icon to run the program.
+4. Decompression the compression package.
+5. Double-click the installation file of AFDeterInstaller_web.
+6. Once installed, the AFDeter software is added to the file directory of 'Apps' under Windows or 'Applications' under macOS.
+7. Clikc the AFDeter icon to run the program.
