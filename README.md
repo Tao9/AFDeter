@@ -28,7 +28,7 @@ https://journals.sagepub.com/doi/full/10.1177/00405175211029212
 5. Click the AFDeter icon to run the program.
 
 ### Standalone application
-1. The installation packages run by MATLAB Runtime. MATLAB Runtime is available from: https://www.mathworks.com/products/compiler/matlab-runtime.html 
+1. The installation packages run by MATLAB Runtime. MATLAB Runtime is available from: https://www.mathworks.com/products/compiler/matlab-runtime.html. The installation packages included MATLAB Runtime are available on an open repository of Zenodo (https://zenodo.org/record/6501518).
 2. It may take a long time to install the package.
 3. A suffix of exe is for Windows operating environment, and app suffix is for macOS.
 4. Decompression the compression package.
